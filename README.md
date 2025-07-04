@@ -40,12 +40,12 @@ Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js)
 	• Backend:
    		From the project root:
 
-   			npm start
+   		npm start
    
    	• Frontend:
 		In a new terminal, from the `client` directory:
 
-   			npm start
+   		npm start
 #Usage
 	1.	Register or log in to your account.
 	2.	Add, view, edit, or delete transactions.
