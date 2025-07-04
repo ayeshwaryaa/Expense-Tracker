@@ -1,4 +1,5 @@
 #Expense Tracker
+
 Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js) application designed to help users manage and analyze their personal finances with ease and security. The 	application provides a user-friendly interface, advanced analytics, and robust data protection, making it an ideal solution for individuals seeking better control over their spending 		habits.
 
 #Features
@@ -47,7 +48,8 @@ Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js)
 
    		npm start
 #Usage
-	1.	Register or log in to your account.
-	2.	Add, view, edit, or delete transactions.
-	3.	Filter and analyze your financial data using the dashboard.
-	4.	Switch between table and analytics views for detailed insights.
+
+1. Register or log in to your account.
+2. Add, view, edit, or delete transactions.
+3. Filter and analyze your financial data using the dashboard.
+4. Switch between table and analytics views for detailed insights.
