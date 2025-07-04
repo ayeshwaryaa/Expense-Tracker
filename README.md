@@ -1,6 +1,6 @@
 #Expense Tracker
 
-Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js) application designed to help users manage and analyze their personal finances with ease and security. The application provides a user-friendly interface, advanced analytics, and robust data protection, making it an ideal solution for individuals seeking better control over their spending habits.
+	Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js) application designed to help users manage and analyze their personal finances with ease and security. The 	application provides a user-friendly interface, advanced analytics, and robust data protection, making it an ideal solution for individuals seeking better control over their spending 		habits.
 
 #Features
 
@@ -22,23 +22,23 @@ Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js)
  
 #Steps
 
-	1.	Clone the Repository:
-   git clone https://github.com/ayeshwaryaa/Expense-Tracker.git
-   cd Expense-Tracker
-  2.	Install Backend Dependencies:
-   npm install
-  4.  Install Frontend Dependencies:
-   cd client
-   npm install
-  5.  Start MongoDB
-      Ensure MongoDB is running locally or update the connection string in your backend configuration.
-  6.  Run the Application:
-	    •	Backend:
-        From the project root:
-        npm start
-      • Frontend:
-        In a new terminal, from the `client` directory:
-        npm start
+	1.	Clone the Repository: 
+ 		git clone https://github.com/ayeshwaryaa/Expense-Tracker.git 
+ 		cd Expense-Tracker 
+	2.	Install Backend Dependencies:
+   		npm install
+  	3.      Install Frontend Dependencies:
+   		cd client
+   		npm install
+ 	4.  	Start MongoDB
+      		Ensure MongoDB is running locally or update the connection string in your backend configuration.
+  	5.  	Run the Application:
+	    	• Backend:
+        		From the project root:
+        		npm start
+      		• Frontend:
+        		In a new terminal, from the `client` directory:
+        		npm start
         
 #Usage
 
