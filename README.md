@@ -4,17 +4,17 @@ Expense Tracker is a comprehensive MERN (MongoDB, Express.js, React.js, Node.js)
 
 #Features
 
-• User Authentication: Secure registration and login.
+**• User Authentication**: Secure registration and login.
 
-• Transaction Management: Add, edit, and delete income or expense transactions with detailed categorization.
+**• Transaction Management:** Add, edit, and delete income or expense transactions with detailed categorization.
 
-• Advanced Filtering: Filter transactions by date, frequency (week, month, year, custom), and type (income or expense).
+**• Advanced Filtering:** Filter transactions by date, frequency (week, month, year, custom), and type (income or expense).
 
-• Analytics Dashboard: Visualize financial trends and spending patterns through interactive charts and tables.
+**• Analytics Dashboard:** Visualize financial trends and spending patterns through interactive charts and tables.
 
-• Responsive Design: Modern UI built with React, Ant Design, and Material UI, optimized for all devices.
+**• Responsive Design:** Modern UI built with React, Ant Design, and Material UI, optimized for all devices.
 
-•Data Security: All sensitive data is securely stored and managed.
+**• Data Security:** All sensitive data is securely stored and managed.
 
 #Installation & Setup
 
